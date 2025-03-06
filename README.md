@@ -18,6 +18,6 @@ ignite == 0.2.1
 
 torchvision == 0.4.0
 
-### Results
+### Results:
 SYSU-MM01:
 ![image](https://github.com/sweeter-fx/SIMAE/blob/main/images/Result_1.png)
